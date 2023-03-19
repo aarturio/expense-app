@@ -31,7 +31,7 @@ function App() {
     });
   };
 
-  const [showComponent, setShowComponent] = useState(true);
+  const [setShowComponent] = useState(true);
 
   return (
     <div>
